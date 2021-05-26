@@ -1,0 +1,140 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+.sec_1{
+   background-image:url("../..//static/img/about-banner.svg");
+   background-size: cover;
+   padding:50px 30px 70px 30px;
+   color:#fff;
+   text-align: center;
+}
+.banner_content{
+   margin-bottom: 35px;
+}
+.blk_btn{
+   background-color: #141414;
+   border-radius: 2px;
+   margin-top:30px;
+   padding: 10px 20px;
+   color: #fff;
+}
+.blk_btn:hover{
+   background-color: #4BCD3D;
+   border-radius: 2px;
+   text-decoration: none;
+   padding: 10px 20px;
+   color: #fff;
+}
+.h2_heading{
+   margin-bottom: 50px;
+   margin-top:70px;
+   font-size: 30px;
+   font-weight: 700;
+}
+.sec_2{
+   margin-bottom:60px;
+   margin-top:60px;
+}
+.pricing_table{
+   border-radius: 8px;
+   box-shadow: 0 3px 20px 0 rgb(0 0 0 / 16%);
+}
+.pricing_table_header {
+   background-color: #2b2b2b;
+   padding: 20px 20px 1px 20px;
+   color: #fff;
+   border-radius: 8px 8px 0px 0px;
+}
+.pricing_table_header_heading{
+   font-size: 40px;
+   font-weight: 700;
+   line-height: 44px;
+}
+.pricing_table_header_content{
+   font-size: 16px;
+   margin-top: -10px;
+   font-weight: 500;
+   line-height: 22px;
+}
+.pricing_table_quote{
+   padding: 20px 20px 1px 20px;
+   min-height: 110px;
+}
+.pricing_table_quote_heading{
+   color: #ff6221;
+   font-size: 40px;
+   margin-bottom: -5px;
+}
+.pricing_table_quote_content {
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 24px;
+}
+.pricing_table_body{
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 24px;
+   padding: 10px 20px 1px 20px;
+}
+.pricing_table_body_content {
+   border-bottom: 1px solid #ddd;
+   padding-bottom: 15px;
+}
+.pricing_table_body_content:last-child {
+   border-bottom: 0px solid #ddd;
+}
+.tooltip {
+   position: relative;
+   display: inline-block;
+}
+.tooltip:hover .tooltiptext {
+   visibility: visible;
+}
+.tooltip .tooltiptext {
+   visibility: hidden;
+   width: 225px;
+   background-color: #000;
+   color: #fff;
+   font-size: 14px;
+   line-height: 20px;
+   text-align: center;
+   border-radius: 6px;
+   padding: 10px 10px;
+   position: absolute;
+   z-index: 100024 !IMPORTANT;
+   top: -40px;
+   right: -40px;
+}
+
+@media screen and (min-width:768px) {
+   .pricing_table{
+      border-radius: 8px;
+      box-shadow: 0 3px 20px 0 rgb(0 0 0 / 16%);
+      width: 360px;
+   }
+   .no_padding{
+      padding:0 !important;
+   }
+}
+.tooltip img {
+   margin-bottom: -3px;
+   margin-left: 3px;
+}
+.pricing_table img {
+   margin-bottom: -3px;
+   margin-right: 5px;
+}
+@media screen and (max-width:767px) {
+   .pricing_table{
+      margin-top: 40px;
+   }
+   .pricing_table_col:first-child .pricing_table{
+      margin-top: 0px;
+   }
+   br {
+      display: none;
+   }
+}

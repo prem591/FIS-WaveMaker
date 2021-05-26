@@ -1,0 +1,60 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+.sec_1{
+   background-image:url("../..//static/img/about-banner.svg");
+   background-size: cover;
+   padding:50px 30px 70px 30px;
+   color:#fff;
+   text-align: center;
+}
+.banner_content{
+   margin-bottom: 35px;
+}
+.blk_btn{
+   background-color: #141414;
+   border-radius: 2px;
+   margin-top:30px;
+   padding: 10px 20px;
+   color: #fff;
+}
+.blk_btn:hover{
+   background-color: #4BCD3D;
+   border-radius: 2px;
+   text-decoration: none;
+   padding: 10px 20px;
+   color: #fff;
+}
+.h2_heading{
+   margin-bottom: 50px;
+   margin-top:70px;
+   font-size: 30px;
+   font-weight: 700;
+}
+.sec_4 .h2_heading{
+   margin-bottom:20px;
+}
+.icon_heading{
+   margin-top:20px;
+}
+.space_para{
+   margin-top:40px;
+   margin-bottom:15px;
+}
+.icon_image{
+   width:120px;
+}
+.sec_3, .sec_4{
+   margin-top:-20px;
+}
+.sec_4{
+   margin-bottom:60px;
+}
+@media screen and (max-width:767px) {
+   br {
+      display: none;
+   }
+}
