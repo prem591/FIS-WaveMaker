@@ -74,7 +74,7 @@ export default function about() {
                                       <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Wrong.svg" />Enterprise Administration</p>
                                       <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Right.svg" />Priority Support <span
                                           className={styles.tooltip}><img src="/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Email and Chat support with 12-hour SLA</span> </span></p>
-                                      <p className={styles.pricing_table_body_content}><img src=c/img/licencing/Icon-dollar.svg" />Training & Professional Services <span
+                                      <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-dollar.svg" />Training & Professional Services <span
                                           className={styles.tooltip}><img src="/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Available at additional cost</span> </span></p>
                                       <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Wrong.svg" />Proof of Concept (POC)</p>
                                   </div>
@@ -90,19 +90,19 @@ export default function about() {
                                       <h2 className={styles.pricing_table_quote_heading}>Get Quote</h2>
                                   </div>
                                   <div className={styles.pricing_table_body}>
-                                      <p className={styles.pricing_table_body_content}><img src="../../static/img/licencing/Icon-Right.svg" />Unlimited Apps</p>
-                                      <p className={styles.pricing_table_body_content}><img src="../../static/img/licencing/Icon-Right.svg" />Unlimited App Users</p>
-                                      <p className={styles.pricing_table_body_content}><img src="../../static/img/licencing/Icon-Right.svg" />Team Collaboration</p>
-                                      <p className={styles.pricing_table_body_content}><img src="../../static/img/licencing/Icon-Right.svg" />Enterprise Integrations <span
-                                          className={styles.tooltip}><img src="../../static/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Private Repos, CI/CD, Component Repository and more</span> </span></p>
-                                      <p className={styles.pricing_table_body_content}><img src="../../static/img/licencing/Icon-Right.svg" />Enterprise Administration  <span
-                                          className={styles.tooltip}><img src="../../static/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Developer Roles, Infrastructure Management, Prometheus Insights and more</span> </span></p>
-                                      <p className={styles.pricing_table_body_content}><img src="../../static/img/licencing/Icon-Right.svg" />Priority Support <span
-                                          className={styles.tooltip}><img src="../../static/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Email and Chat support with 12-hour SLA</span> </span></p>
-                                      <p className={styles.pricing_table_body_content}><img src="../../static/img/licencing/Icon-dollar.svg" />Training & Professional Services <span
-                                          className={styles.tooltip}><img src="../../static/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Available at additional cost</span> </span></p>
-                                      <p className={styles.pricing_table_body_content}><img src="../../static/img/licencing/Icon-dollar.svg" />Proof of Concept (POC) <span
-                                          className={styles.tooltip}><img src="../../static/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>POC app built by WaveMaker experts. Available at additional cost.</span> </span></p>
+                                      <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Right.svg" />Unlimited Apps</p>
+                                      <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Right.svg" />Unlimited App Users</p>
+                                      <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Right.svg" />Team Collaboration</p>
+                                      <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Right.svg" />Enterprise Integrations <span
+                                          className={styles.tooltip}><img src="/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Private Repos, CI/CD, Component Repository and more</span> </span></p>
+                                      <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Right.svg" />Enterprise Administration  <span
+                                          className={styles.tooltip}><img src="/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Developer Roles, Infrastructure Management, Prometheus Insights and more</span> </span></p>
+                                      <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Right.svg" />Priority Support <span
+                                          className={styles.tooltip}><img src="/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Email and Chat support with 12-hour SLA</span> </span></p>
+                                      <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-dollar.svg" />Training & Professional Services <span
+                                          className={styles.tooltip}><img src="/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>Available at additional cost</span> </span></p>
+                                      <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-dollar.svg" />Proof of Concept (POC) <span
+                                          className={styles.tooltip}><img src="/img/licencing/Icon-question.svg" /><span className={styles.tooltiptext}>POC app built by WaveMaker experts. Available at additional cost.</span> </span></p>
                                   </div>
                               </div>
                           </div>
