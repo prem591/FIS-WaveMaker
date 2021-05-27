@@ -24,7 +24,7 @@ export default function about() {
                           <p className={styles.banner_content}>The original JAVA-based low code platform, specially designed for professional developers. It has a highly
                               flexible and reliable foundation that includes a host of modern front-end, mobile, back-end, and devOps
                               technologies that go into rapidly building and delivering enterprise-grade aPaaS platforms</p>
-                      <a href="/docs" className={styles.blk_btn}>Take a quick tour of the platform</a>
+                      <a href="https://www.wavemaker.com/platform/" target="_blank" className={styles.blk_btn}>Know more about the platform</a>
                       </div>
                   <div className="col col--2"></div>
                     </div>
