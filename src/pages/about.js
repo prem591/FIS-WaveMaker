@@ -20,7 +20,7 @@ export default function about() {
               <div className="row">
                   <div className="col col--2"></div>
                       <div class="col col--8">
-                          <h1>Contextual banking experiences, built quicker</h1>
+                          <h1>Contextual banking experiences, <br />built quicker</h1>
                           <p className={styles.banner_content}>The original JAVA-based low code platform, specially designed for professional developers. It has a highly
                               flexible and reliable foundation that includes a host of modern front-end, mobile, back-end, and devOps
                               technologies that go into rapidly building and delivering enterprise-grade aPaaS platforms</p>
