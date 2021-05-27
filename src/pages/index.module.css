@@ -52,3 +52,10 @@
     margin-left: 0px;
   }
 }
+@media screen and (min-width:1600px) {
+.home_banner_row {
+    align-items: center;
+    display: flex;
+    min-height: 800px;
+}
+}
