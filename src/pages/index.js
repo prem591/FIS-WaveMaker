@@ -22,7 +22,7 @@ export default function home() {
                                     <p className={styles.banner_content}>Welcome! Please explore this portal to understand <br/>
                                         WaveMaker better, and access all the projects <br/>
                                         ongoing and undertaken with the platform.</p>
-                                    <a href="/docs" className={styles.blk_btn}>Get started</a>
+                                    <a href="/about" className={styles.blk_btn}>Get started</a>
                                 </div>
                                 <div className="col col--6">
                                     <img className={styles.banner_image} src="img/home/WaveMaker-FIS-Img.svg"/>
