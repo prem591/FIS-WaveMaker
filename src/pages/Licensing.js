@@ -22,7 +22,7 @@ export default function about() {
                       <div class="col col--8">
                           <h1>Scale with WaveMaker</h1>
                           <p className={styles.banner_content}>A bad licensing model can choke your growth. WaveMaker has an affordable and uncomplicated licensing model designed to enable scale for your applications & platforms. Our pricing is based on developer seats, and does not inhibit the complexity or number of apps you want to build.</p>
-                      <a href="/docs" className={styles.blk_btn}>Start free trial</a>
+                      <a href="https://www.wavemaker.com/get-started/" className={styles.blk_btn}>Start free trial</a>
                       </div>
                   <div className="col col--2"></div>
                     </div>
