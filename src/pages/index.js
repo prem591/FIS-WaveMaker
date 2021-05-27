@@ -25,7 +25,7 @@ export default function home() {
                                     <a href="/docs" className={styles.blk_btn}>Get started</a>
                                 </div>
                                 <div className="col col--6">
-                                    <img className={styles.banner_image} src="../..//static/img/home/WaveMaker-FIS-Img.svg"/>
+                                    <img className={styles.banner_image} src="img/home/WaveMaker-FIS-Img.svg"/>
                                 </div>
                             </div>
                         </div>
