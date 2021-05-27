@@ -44,8 +44,8 @@ export default function about() {
                                   <p className={styles.pricing_table_quote_content}>Monthly</p>
                               </div>
                               <div className={styles.pricing_table_body}>
-                                  <p className={styles.pricing_table_body_content}><img src="img/licencing/Icon-Right.svg" />Unlimited Apps</p>
-                                  <p className={styles.pricing_table_body_content}><img src="img/licencing/Icon-Right.svg" />Unlimited App Users</p>
+                                  <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Right.svg" />Unlimited Apps</p>
+                                  <p className={styles.pricing_table_body_content}><img src="/img/licencing/Icon-Right.svg" />Unlimited App Users</p>
                                   <p className={styles.pricing_table_body_content}><img src="img/licencing/Icon-Wrong.svg" />Team Collaboration</p>
                                   <p className={styles.pricing_table_body_content}><img src="img/licencing/Icon-Wrong.svg" />Enterprise Integrations</p>
                                   <p className={styles.pricing_table_body_content}><img src="img/licencing/Icon-Wrong.svg" />Enterprise Administration</p>
