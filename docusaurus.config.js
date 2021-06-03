@@ -30,13 +30,12 @@ module.exports = {
           label: 'Projects and Training',
         },
         {
-          type: 'doc',
-          docId: 'intro',
+          to: 'enablement/',
+          activeBasePath: 'enablement',
+          label: 'Enablement',
           position: 'right',
-          label: 'Technical Documentation',
         },
-        {to: '/blog', label: 'Resources', position: 'right'},
-        {to: '/blog', label: 'Forum', position: 'right'},
+        {to: 'https://fisd1-consumer-studio.wavemakeronline.com/forum', label: 'Forum', position: 'right'},
         {
           to: 'licensing/',
           activeBasePath: 'licensing',
