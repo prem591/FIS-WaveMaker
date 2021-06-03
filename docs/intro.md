@@ -2,34 +2,19 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+WaveMaker(WM) is dedicated to the FIS cause of quick product delivery and superior customer experience. The platform has been embedded in the FIS framework to accelerate product development, modernization of legacy applications, and roll out consistently beautiful, customized, and powerful user experience.
 
-## Getting Started
 
-Get started by **creating a new site**.
+<br />
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+![ScreenShot](/img/projects/custom-studio.png)
 
-## Generate a new site
+<br />
 
-Generate a new Docusaurus site using the **classic template**:
+![ScreenShot](/img/projects/lcd-platform-2.png)
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+<br />
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+Read further to explore and understand different projects that have been launched by FIS in collaboration with WM. This will be an open section. As the collaborative journey between WM and FIS continues, more projects will be added. Stay tuned!
