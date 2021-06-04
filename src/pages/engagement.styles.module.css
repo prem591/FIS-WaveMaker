@@ -1,0 +1,107 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+.engagement_sec_1{
+   background-image:url("../..//static/img/about-banner.svg");
+   background-size: cover;
+   padding:50px 30px 70px 30px;
+   color:#fff;
+   text-align: center;
+}
+.engagement_sec_1 .h2_heading{
+   margin-bottom: 15px;
+   margin-top:90px;
+   font-size: 30px;
+   font-weight: 700;
+}
+.banner_content{
+   margin-bottom: 35px;
+}
+.blk_btn{
+   background-color: #141414;
+   border-radius: 2px;
+   margin-top:30px;
+   padding: 10px 20px;
+   color: #fff;
+}
+.blk_btn:hover{
+   background-color: #4BCD3D;
+   border-radius: 2px;
+   text-decoration: none;
+   padding: 10px 20px;
+   color: #fff;
+}
+.engagement_sec_2 {
+   margin-bottom: 0px !important;
+}
+.engagement_sec_2 .h2_heading {
+   margin-bottom: 15px;
+   margin-top: 80px;
+}
+.engagement_sec_3  .h2_heading {
+   margin-bottom: 15px !important;
+   margin-top: 80px !important;
+}
+.engagement_sec_3 {
+   margin-bottom: 0px !important;
+}
+.icon_heading{
+   margin-top:20px;
+}
+.space_para{
+   margin-top:20px;
+   margin-bottom:25px;
+}
+.icon_image{
+   width:120px;
+}
+.space_top_10{
+   margin-top: 10px !IMPORTANT;
+   display: block;
+}
+.wm_lecensing_sec{
+   padding-top: 10px;
+   padding-bottom: 30px;
+   padding-left: 15px;
+}
+.blue_box{
+   background-color: #1C4FB1;
+   margin-right: 30px;
+   color: #ffffff;
+   border-radius: 8px;
+   padding: 30px 30px 10px 30px !important;
+}
+.engagement_sec_4{
+   margin-bottom: 80px;
+}
+.engagement_sec_4 .h2_heading {
+   margin-bottom: 20px;
+   margin-top: 60px;
+   font-size: 30px;
+   font-weight: 700;
+}
+details {
+   padding-bottom: 10px !important;
+   padding-left: 5px;
+}
+summary {
+   padding-bottom: 10px;
+   font-size:18px;
+   font-weight:700;
+}
+details p {
+   padding-left: 20px;
+}
+details ul {
+   padding-left: 40px;
+   margin-top: -10px;
+}
+
+@media screen and (max-width:767px) {
+   br {
+      display: none;
+   }
+}
