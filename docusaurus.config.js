@@ -27,7 +27,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'right',
-          label: 'Projects and Training',
+          label: 'Projects',
         },
         {
           to: 'enablement/',
@@ -42,12 +42,6 @@ module.exports = {
           position: 'right',
         },
         {to: 'https://fisd1-consumer-studio.wavemakeronline.com/forum', label: 'Forum', position: 'right'},
-        {
-          to: 'licensing/',
-          activeBasePath: 'licensing',
-          label: 'Licensing',
-          position: 'right',
-        },
       ],
     },
     footer: {
