@@ -11,7 +11,7 @@ export default function enablement() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`About ${siteConfig.title}`}
+      title={`Enablement ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <main>
         {
