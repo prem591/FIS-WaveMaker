@@ -82,26 +82,6 @@ export default function about() {
                   </div>
               </section>
           }
-          {
-              <section className={styles.sec_4}>
-                  <div className="container">
-                      <h2 className={styles.h2_heading}>WM professional services wing</h2>
-                      <div className="row">
-                          <div className="col col--9">
-                          <p>To provide maximum value, WaveMaker offers 3 progressive levels of professional services worldwide: enablement, catalyst support, and large-scale enterprise implementation</p>
-                          <p><b>Enablement Services provides</b> consultation by FIS WM LCD experts to build/design solutions using best practices. Our success stories within Digital One(D1) Modern Banking Platform (MBP) LOB’s, and understanding FIS’s needs to meet their objectives. A 5-day customized training program for WM newbies on a wide array of topics like building mobile applications, creating prefabs, customizing backend and front end code, etc. is included.</p>
-                          <p>Enablement services are ideal for FIS Project Teams that are new to the platform, looking to launch a POC or find optimal domain-specific business solutions.</p>
-                          <p><b>Catalyst support services</b> start when enablement services end. This service offers several options intended to catalyze platform adoption, ROI, and scaling of WM-powered development. The dedicated services team can either work independently or as part of the FIS project team. It typically comprises an experienced team of cross-functional consultants with expertise in WM architecture & design, user experience (UX), solution development, theme building, and deployment.</p>
-                          <p className={styles.bold_image_title}><b>LCD Team Structure can be customised to your project team needs</b></p>
-                         <img src="/img/lcd-team.svg" />
-                         <p className={styles.space_para}>WaveMaker Professional Services assigns a long-lived cross functional team constituting all disciplines of Agile SDLC UX/UI/WM Developer/QA/WM Architect based on the program or project’s need</p>
-                          <p className={styles.bold_image_title}><b>Current D1 LCD Customer Implementation Team Structure</b></p>
-                         <img src="/img/lcd-customer.svg" />
-                          </div>
-                      </div>
-                  </div>
-              </section>
-          }
       </main>
     </Layout>
   );
