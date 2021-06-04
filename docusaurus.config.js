@@ -35,6 +35,12 @@ module.exports = {
           label: 'Enablement',
           position: 'right',
         },
+        {
+          to: 'engagement/',
+          activeBasePath: 'engagement',
+          label: 'Engagement',
+          position: 'right',
+        },
         {to: 'https://fisd1-consumer-studio.wavemakeronline.com/forum', label: 'Forum', position: 'right'},
         {
           to: 'licensing/',
