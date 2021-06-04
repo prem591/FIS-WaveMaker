@@ -22,7 +22,7 @@ export default function engagement() {
                       <div class="col col--8">
                           <h1>Grow with WaveMaker</h1>
                           <p className={styles.banner_content}>Engage with WaveMaker to understand all the offerings of the world-class professional services team equipped to collaborate with the FIS team at any stage of the SDLC, and our predictable licensing model that inspires growth and scale</p>
-                      <a href="/docs" className={styles.blk_btn}>Take a quick tour of the platform</a>
+                      <a href="https://www.wavemaker.com/get-started/" target="_blank" className={styles.blk_btn}>Take a quick tour of the platform</a>
                       </div>
                   <div className="col col--2"></div>
                     </div>
