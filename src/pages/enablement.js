@@ -22,7 +22,7 @@ export default function enablement() {
                       <div class="col col--8">
                           <h1>Train with WaveMaker</h1>
                           <p className={styles.banner_content}>WaveMaker(WM) gives its users a wholesome experience. From customized training programs to detailed documentation and feature-level tutorials, always be prepared.</p>
-                      <a href="/docs" className={styles.blk_btn}>Take a quick tour of the platform</a>
+                      <a href="https://www.youtube.com/watch?v=--rUwWmZAVQ" target="_blank" className={styles.blk_btn}>Take a quick tour of the platform</a>
                       </div>
                   <div className="col col--2"></div>
                     </div>
